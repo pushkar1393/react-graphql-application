@@ -24,5 +24,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "engines":{
+    "node":"v9.11.1"
+  }
 }
